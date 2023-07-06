@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Eclipsea effect</title>
+        <style>
+            body{
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            }
+            #text{
+                width: 300px;
+                border: 2px solid red;
+                white-space: nowrap;
+                overflow:hidden;
+                text-overflow: ellipsis;
+                writing-mode: vertical-rl;
+            }
+            #text:hover{
+                overflow: visible;
+                border: 2px solid green;
+            }
+        </style>
+    </head>
+    <body>
+        <header>Eclipse effect</header>
+        <main>
+            <div id="text">
+                <p>This is a simple paragraph that we are going to use to demonstrate the eclipse effect for the overflowing text.</p>
+            </div>
+        </main>
+        <footer></footer>
+    </body>
+</html>
