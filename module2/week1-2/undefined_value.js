@@ -1,1 +1,0 @@
-console.log('There should be an undefined value below');

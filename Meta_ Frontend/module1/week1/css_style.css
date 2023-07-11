@@ -1,0 +1,40 @@
+h1 {
+    color: purple;
+}
+
+#header1 {
+    color: green;
+
+}
+
+p{
+    color: blueviolet;
+
+}
+
+#para1{
+    color:orange;
+
+}
+
+.testing {
+    color:black;
+    border: 1px solid blue;
+}
+h1.testing {
+    color:blanchedalmond;
+    border: 2px solid green;
+}
+
+#blog > h1{
+    color: hsl(0,1000%,50%);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 120px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline green solid 10px;
+}
+
+a:hover {
+    color: green;
+}

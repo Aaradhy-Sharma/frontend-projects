@@ -1,0 +1,9 @@
+total 40
+-rw-r--r--   1 aaradhy_sharma  staff    46 Jun 28 10:55 input.txt
+-rw-r--r--   1 aaradhy_sharma  staff    78 Jun 28 10:57 input2.txt
+-rw-r--r--   1 aaradhy_sharma  staff    97 Jun 28 10:58 input3.txt
+drwxr-xr-x  12 aaradhy_sharma  staff   384 Jun 27 14:06 node_modules
+-rw-r--r--   1 aaradhy_sharma  staff     0 Jun 28 10:58 output.txt
+-rw-r--r--   1 aaradhy_sharma  staff  3380 Jun 27 14:06 package-lock.json
+drwxr-xr-x   7 aaradhy_sharma  staff   224 Jun 27 14:43 testing
+-rw-r--r--   1 aaradhy_sharma  staff   195 Jun 27 14:06 testing_concat_strings.js

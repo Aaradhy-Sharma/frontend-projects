@@ -1,0 +1,2 @@
+This is me adding some text as an input from the terminal using my keyboard.
+

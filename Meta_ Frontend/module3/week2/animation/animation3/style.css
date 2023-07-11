@@ -1,0 +1,29 @@
+body {
+  background-color: bisque;
+}
+
+@keyframes bounce {
+  1% {
+    transform: translate3d(100px, 0, 0);
+  }
+  10% {
+    transform: rotateX(4000deg);
+    background-color: red;
+  }
+}
+.ball {
+  border-radius: 50%;
+  background-color: hotpink;
+  border-color: hotpink;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-bottom: 50px solid transparent;
+  width: 0;
+  height: 0;
+}
+
+.ball:hover {
+  animation: bounce 9s ease-in-out 0.5s infinite alternate;
+}
+
+/*# sourceMappingURL=style.css.map */
